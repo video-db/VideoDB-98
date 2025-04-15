@@ -2,7 +2,8 @@
 
 A nostalgic Windows 95/98-style media explorer application for browsing, managing, and interacting with video content through VideoDB.
 
-![Windows Media Explorer Screenshot](screenshot.png)
+![Windows Media Explorer Screenshot](https://github.com/user-attachments/assets/af16b5dc-971f-4dc3-8761-2516c5956455)
+
 
 ## Overview
 
