@@ -11,7 +11,7 @@ Windows Media Explorer combines the classic Windows 95/98 interface with modern 
 
 ## ⚠️ Disclaimer
 
-This project is currently in an experimental state and was developed as a "vibe coding" project with the assistance of Claude Code. As such:
+This project is currently in an experimental state and was developed as a "vibe coding" project with the assistance of [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview). As such:
 
 - The code may contain bugs and unexpected behaviors
 - Some features might be incomplete or work inconsistently
