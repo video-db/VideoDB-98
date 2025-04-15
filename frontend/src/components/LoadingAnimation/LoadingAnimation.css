@@ -1,0 +1,32 @@
+/* In your CSS file (e.g., App.css or LoadingAnimation.css) */
+:root {
+  --sprite-height: 480px;
+  --frame-height: 32px;
+  --frame-count: 15;
+}
+
+.hourglass-loader {
+  width: 32px;
+  height: 32px;
+  background: url('/icons/png/process-working.png') no-repeat;
+  animation: sprite 1s infinite;
+}
+
+@keyframes sprite {
+  0% { background-position: 0 0; }
+  6.66% { background-position: 0 -32px; }
+  13.32% { background-position: 0 -64px; }
+  19.98% { background-position: 0 -96px; }
+  26.64% { background-position: 0 -128px; }
+  33.3% { background-position: 0 -160px; }
+  39.96% { background-position: 0 -192px; }
+  46.62% { background-position: 0 -224px; }
+  53.28% { background-position: 0 -256px; }
+  59.94% { background-position: 0 -288px; }
+  66.6% { background-position: 0 -320px; }
+  73.26% { background-position: 0 -352px; }
+  79.92% { background-position: 0 -384px; }
+  86.58% { background-position: 0 -416px; }
+  93.24% { background-position: 0 -448px; }
+  100% { background-position: 0 -480px; }
+} 
